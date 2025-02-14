@@ -10,6 +10,7 @@ This repository provides a concise Python tutorial on implementing minimum-fuel,
 
 > **Note**: This tutorial is inspired by the paper  
 > *"Comparison of Control Regularization Techniques for Minimum-Fuel Low-Thrust Trajectory Design using Indirect Methods"*  
+> but **does not** include the exact research code from that publication.
 
 ---
 
